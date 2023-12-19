@@ -1,0 +1,35 @@
+_repo: Les-femmes-au-gouvernail_72151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Auclert, Hubertine
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '54842'
+    url: http://www.gutenberg.org/2009/agents/54842
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hubertine_Auclert
+    - https://fr.wikipedia.org/wiki/Hubertine_Auclert
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72151'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bd6t5379959p/f7.double
+pgterms:marc905: 20221005064011auclert
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMarcel Giard, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women'
+- !lcsh 'France -- History -- Third Republic, 1870-1940'
+- !lcc 'HQ'
+- GITenberg
+title: Les femmes au gouvernail
+url: http://www.gutenberg.org/ebooks/72151
