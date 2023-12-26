@@ -1,5 +1,8 @@
 _repo: Les-femmes-au-gouvernail_72151
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72151-h/images/cover.jpg
 creator:
   author:
     agent_name: Auclert, Hubertine
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hubertine_Auclert
     - https://fr.wikipedia.org/wiki/Hubertine_Auclert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72151#Les-femmes-au-gouvernail
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72151'
